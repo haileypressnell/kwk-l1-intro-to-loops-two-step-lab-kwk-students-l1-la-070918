@@ -42,7 +42,12 @@ def how_many_steps?
   loop steps
     count = 0
     while count += 1 
-    
+      puts counter
+     if counter % 2 == 0 
+       puts "Left"
+      elsif
+        puts "Right"
+        sleep(0.5)
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
