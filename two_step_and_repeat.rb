@@ -1,11 +1,12 @@
-loop first_steps
-  puts "Right foot back"
+def first_steps
+  loop one 
+    puts "Right foot back"
     sleep(0.5)
-  puts "Left foot back"
+    puts "Left foot back"
     sleep(0.5)
-  puts "Right foot back"
+    puts "Right foot back"
     sleep(0.5)
-  puts "Stop"
+    puts "Stop"
     sleep(0.5)
     break
   # Write a loop that outputs "Right foot back", "Left foot back",
