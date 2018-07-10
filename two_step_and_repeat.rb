@@ -41,7 +41,8 @@ def how_many_steps?
   steps = 0 
   loop steps
     count = 0
-    while count
+    while count += 1 
+    
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 end
 
